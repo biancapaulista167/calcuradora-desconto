@@ -1,0 +1,54 @@
+body {
+  background:#95d5b2;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.caixa {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 250px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input, select, button {
+  width: 100%;
+  margin-top: 10px;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #52b788;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background: #2d6a4f;
+}
+
+#resultado {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.desconto {
+  color: green;
+}
+
+.acrescimo {
+  color: red;
+}
+
+.neutro {
+  color: orange;
+}
+
