@@ -21,6 +21,15 @@ Parcelado = sem desconto
 Pix = desconto maior
 
 Imagem do projeto:
-![calculadora-descontos](./imagnes/calculadora.png)
+![calculadora-descontos](./imagens/calculadora.png)
 
-#Desenvolvido por Bianca
+## Como clonar o projeto 
+No terminal do VS Code digite:
+
+https://github.com/biancapaulista167/calcuradora-desconto.git
+
+No GitHub Desktop:
+
+https://github.com/biancapaulista167/calcuradora-desconto.git
+
+#Desenvolvido por Bianca - Turma de Tecnologia em Informática para internet (matutino) - Senac DF 
